@@ -1,0 +1,218 @@
+/* body {
+    background-color: rgb(242, 255, 0);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(red, green, blue);
+    font-size: 100px;
+}
+
+p{
+    color: black;
+    font-size: 70px;
+}
+
+button{
+    color: black;
+    font-size: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: blueviolet;
+}
+
+/* Терминал стилиндеги караңгы фон */
+/* body {
+  background-color: #0b0f19;
+  font-family: 'Consolas', 'Courier New', monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* <div> — Контейнер карточки */
+/* .dev-card {
+  background-color: #111827;
+  width: 310px;
+  padding: 25px;
+  border-radius: 12px;
+  border: 1px solid #1f2937;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  text-align: center;
+} */
+
+/* <img> — Фотография */
+/* .user-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #10b981;
+  margin-bottom: 12px;
+} */
+
+/* <h1> — Имя */
+/* .dev-card h1 {
+  color: #f9fafb;
+  font-size: 21px;
+  margin: 0 0 4px 0;
+} */
+
+/* <h2> — Профессия/увлечение */
+/* .dev-card h2 {
+  color: #10b981;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 0 14px 0;
+} */
+
+/* <p> — Описание */
+/* .dev-card p {
+  color: #9ca3af;
+  font-size: 12.5px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+} */
+
+/* .skills-header {
+  color: #e5e7eb;
+  font-size: 13px;
+  text-align: left;
+  margin-bottom: 6px;
+  font-weight: bold;
+} */
+
+/* <ul> и <li> — Список навыков */
+/* .tech-stack {
+  text-align: left;
+  background-color: #1f2937;
+  padding: 10px 10px 10px 30px;
+  border-radius: 6px;
+  margin: 0 0 18px 0;
+} */
+
+/* .tech-stack li {
+  color: #d1d5db;
+  font-size: 12px;
+  margin-bottom: 4px;
+} */
+
+/* .tech-stack li:last-child {
+  margin-bottom: 0;
+} */
+
+/* <a> — Ссылка */
+/* .github-link {
+  display: inline-block;
+  color: #3b82f6;
+  font-size: 13px;
+  text-decoration: none;
+  margin-bottom: 16px;
+} */
+
+/* .github-link:hover {
+  text-decoration: underline;
+} */
+
+/* <button> — Кнопка */
+/* .send-msg-btn {
+  width: 100%;
+  background-color: #10b981;
+  color: #064e3b;
+  border: none;
+  padding: 11px;
+  border-radius: 6px;
+  font-size: 13.5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+} */
+
+/* ⭐ Дополнительное задание: Изменение кнопки при наведении мышки (:hover) */
+/* .send-msg-btn:hover {
+  background-color: #059669;
+  color: #ffffff;
+  box-shadow: 0 0 12px rgba(16, 185, 129, 0.4);
+} */ 
+
+
+body {
+    background-color: #2b3036;
+    margin: 0;
+    padding: 20px;
+}
+
+.block-1 {
+    color: white;
+    background-color: #3b73b9;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-2 {
+    color: orange;
+    background-color: #1e5a22;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-3 {
+    color: cyan;
+    background-color: #b32d3a;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-4 {
+    color: yellow;
+    background-color: black;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-5 {
+    color: fuchsia;
+    background-color: #4a4a4a;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-6 {
+    color: #cddc39;
+    background-color: #8d4f1e;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-7 {
+    color: red;
+    background-color: #0d6878;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-8 {
+    color: #d1a8e3;
+    background-color: #cfa11d;
+    font-style: italic;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-9 {
+    color: pink;
+    background-color: #0f3822;
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.block-10 {
+    color: lightgrey;
+    background-color: #086b75;
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+}
